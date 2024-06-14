@@ -1,5 +1,4 @@
 let fruits = ["apple", "banana", "orange"];
 
-fruits.forEach((element) => {
-  console.log(element);
-});
+fruits.push("carrot");
+console.log(fruits);
