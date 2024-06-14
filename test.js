@@ -1,5 +1,1 @@
-function myFunction() {
-  console.log("Hello World!");
-}
-
-console.log(myFunction);
+console.log("Hello World!");
