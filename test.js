@@ -1,4 +1,4 @@
 let fruits = ["apple", "banana", "orange"];
 
-fruits.unshift("carrot");
+fruits.push("carrot");
 console.log(fruits);
