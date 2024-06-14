@@ -1,5 +1,5 @@
-function myFunction() {
-  console.log("Hello World!");
-}
+let fruits = ["apple", "banana", "orange"];
 
-console.log(myFunction);
+fruits.forEach((element) => {
+  console.log(element);
+});
